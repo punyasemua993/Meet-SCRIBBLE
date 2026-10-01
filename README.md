@@ -1,3 +1,5 @@
+<img width="1920" height="1280" alt="SCRIBBLE" src="https://github.com/user-attachments/assets/36394fbe-1279-495f-b9db-fbdbed82237b" />
+
 # Meet-SCRIBBLE
 Meet SCRIBBLE What is it? A living anxiety doodle. That feeling when you had 3 coffees, 2 hours of sleep, and 17 tabs open — but you're still vibing.
 Core Design Logic (why it won't get disqualified):
